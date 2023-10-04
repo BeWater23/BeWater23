@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BeWater23
-- 👀 I’m a PhD student and mainly interested in the interface of Organic Chemistry and Computation 🧪💻
+- 👀 I’m a PhD student and mainly interested in the interface of Organic Chemistry and Computational Chemistry 🧪💻
 - 🌱 I’m currently learning how to utilize Machine Learning in Asymmetric Catalysis 🧬🚀
