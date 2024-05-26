@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @BeWater23
-- 👀 I’m a PhD student and mainly interested in the interface of Organic Chemistry and Computational Chemistry 🧪💻
-- 🌱 I’m currently learning how to utilize Machine Learning in Asymmetric Catalysis 🧬🚀
+- 👋 Hi, I’m @BeWater23 🌊
+- 👀 I’m a PhD student who is working at the interface of Organic Chemistry and Computational Chemistry 🧪💻
+- 🧐 My scientific interests span from classical total synthesis of complex chemical compounds over catalysis to the fundamentals of chemical theory and how to utilize computational modeling to explore chemical space 👨‍🔬👨‍💻
+- 🌱 I’m currently figuring out how to efficiently combine traditional Quantum Chemistry with Machine Learning to accelarate discoveries in Asymmetric Catalysis 🧬🚀
